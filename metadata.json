@@ -1,0 +1,8 @@
+{
+  "name": "Ebun D Foodie - Delicious Meals, Snacks & Event Catering",
+  "description": "Authentic Nigerian cuisine, party smallchops platters, bulk stews, chinchin snacks, custom celebration cakes, and event catering in Lokoja, Kogi State.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
